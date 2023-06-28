@@ -1,0 +1,19 @@
+.react-slick-container {
+  height: 100vh;
+  width: 100vw;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+}
+
+.title {
+  font-family: 'Roboto';
+  font-size: 26px;
+  font-weight: 500;
+
+  color: #05acff;
+}
